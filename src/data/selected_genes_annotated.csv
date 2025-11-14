@@ -1,0 +1,103 @@
+﻿Selected genes,Assumed annotation in the fetal kidney,Simplified Annotation for heatmap,Really Simplified Annotation for heatmap
+ACTA1,"Un-induced mesenchyme, Muscle",UM/Muscle,Nephrogenic Stroma
+ACTA2,"Un-induced mesenchyme, Muscle",UM/Muscle,Nephrogenic Stroma
+ACTB,Housekeeping gene,Housekeeping,Housekeeping
+ADGRE1,Macrophages,Immune,Immune
+ADRB1,Juxtaglomerular cells,Juxtaglomerular cells,Epithelial
+ALDH2,Protects against acute kidney injury ,Protects against acute kidney injury ,Epithelial
+AQP1,Proximal tubule,Proximal tubule,Epithelial
+AQP2,Collecting duct,CD,Epithelial
+C1QA,Macrophages,Immune,Immune
+C1QB,Macrophages,Immune,Immune
+CCL2,Monocytes (later become Macrophages),Immune,Immune
+CD14,Monocytes (later become Macrophages),Immune,Immune
+CD19,B cells,Immune,Immune
+CD34,Endothelial cells,Endothelial cells,Endothelial
+CD3D,T cells,Immune,Immune
+CD3E,T cells,Immune,Immune
+CD3G,T cells,Immune,Immune
+CD4,T cells,Immune,Immune
+CD40,Dendritic cells,Dendritic cells,Immune
+CD79A,B cells,Immune,Immune
+CD79B,B cells,Immune,Immune
+CD8A,T cells,Immune,Immune
+CD93,Endothelial cells,Endothelial cells,Endothelial
+CDH1,Distal tubule,Distal tubule,Epithelial
+CDH11,"Un-induced mesenchyme, Cap mesenchyme",UM/CM,Epithelial
+CDH5,Endothelial cells,Endothelial cells,Endothelial
+CDH6,Proximal tubule,Proximal tubule,Epithelial
+CITED1,Cap mesenchyme,CM,Cap Mesenchyme
+CLCNKB,"Loop of henle, Collecting duct (intercalated cells)",LOH/CD,Epithelial
+CLDN4,Collecting duct,CD,Epithelial
+CLDN6,Epithelial marker,Epithelial marker,Epithelial
+CLDN7,Epithelial marker,Epithelial marker,Epithelial
+CLDN8,"Distal tubule , Loop of Henle , Collecting duct",LOH/CD,Epithelial
+COL1A1,Un-induced mesenchyme,UM,Nephrogenic Stroma
+COL1A2,Un-induced mesenchyme,UM,Nephrogenic Stroma
+COL3A1,Un-induced mesenchyme,UM,Nephrogenic Stroma
+COL5A2,Un-induced mesenchyme,UM,Nephrogenic Stroma
+CRYM,Cap mesenchyme,CM,Cap Mesenchyme
+CTLA4,T cells (immune checkpoint),Immune,Immune
+CXCL2,Monocytes (later become Macrophages),Immune,Immune
+CXCR6,T cells,Immune,Immune
+DES,Muscle,Muscle,Muscle
+DYSF,Endothelial cells,Endothelial cells,Endothelial
+EDNRB,Endothelial cells,Endothelial cells,Endothelial
+EPCAM,Epithelial marker,Epithelial marker,Epithelial
+ESRP1,Epithelial marker,Epithelial marker,Epithelial
+EYA1,Cap mesenchyme,CM,Cap Mesenchyme
+FN1,Un-induced mesenchyme,UM,Nephrogenic Stroma
+FOXD1,Un-induced mesenchyme,UM,Nephrogenic Stroma
+FOXI1,"Distal tubule, Collecting duct (Intercalated Cells)",DT/CD,Epithelial
+GAPDH,Housekeeping gene,Housekeeping gene,Housekeeping
+GATA3,"Distal tubule, Collecting duct",DT/CD,Epithelial
+GZMA,NK cells,Immune,Immune
+HNF4A,Proximal tubule,PT,Epithelial
+IL10,Macrophages,Immune,Immune
+IL1B,Macrophages,Immune,Immune
+KCNJ1,Loop of Henle,LOH,Epithelial
+KDR,Endothelial cells,Endothelial cells,Endothelial
+KRT18,"Epithelial marker, Collecting duct",Epithelial marker,Epithelial
+KRT19,Epithelial marker,Epithelial marker,Epithelial
+LAG3,T cells (immune checkpoint),Immune,Immune
+LRP2,Proximal tubule,PT,Epithelial
+LTF,Neutrophils,Immune,Immune
+MAFB,Podocytes,Podocytes,Epithelial
+MEIS1,Un-induced mesenchyme,UM,Nephrogenic Stroma
+MKI67,Cell cycle (G2 phase),Cell cycle,Cell cycle
+MRC1,Macrophages,Immune,Immune
+MUC1,"Distal tubule, Collecting duct",DT/CD,Epithelial
+MYH3,"Un-induced mesenchyme, Muscle",UM/Muscle,Muscle
+MYL1,Muscle,Muscle,Muscle
+MYO1B,Muscle,Muscle,Muscle
+MYO1D,Muscle,Muscle,Muscle
+MYO5A,Muscle,Muscle,Muscle
+MYO9A,Muscle,Muscle,Muscle
+MYOG,Muscle,Muscle,Muscle
+NCAM1,Cap mesenchyme,CM,Cap Mesenchyme
+NPHS1,Podocytes,Podocytes,Epithelial
+NPHS2,Podocytes,Podocytes,Epithelial
+OCLN,Epithelial marker,Epithelial marker,Epithelial
+PAX2,Renal epithelial marker,Epithelial marker,Epithelial
+PAX8,Renal epithelial marker,Epithelial marker,Epithelial
+PDGFRB,Mesangial cells,Mesangial cells,Epithelial
+PODXL,Podocytes,Podocytes,Epithelial
+PROM1,Renal epithelial marker,Epithelial marker,Epithelial
+PTPRO,Podocytes,Podocytes,Epithelial
+REN,Juxtaglomerular cells,Juxtaglomerular cells,Epithelial
+RHBG,Collecting duct,CD,Epithelial
+S100A8,Neutrophils,Immune,Immune
+S100A9,Neutrophils,Immune,Immune
+SALL2,Cap mesenchyme,CM,Cap Mesenchyme
+SERPINE1,Un-induced mesenchyme (human),UM,Nephrogenic Stroma
+SERPINE2,Un-induced mesenchyme (mouse),UM,Nephrogenic Stroma
+SIX2,Cap mesenchyme,CM,Cap Mesenchyme
+SLC12A1,"Loop of henle, Distal tubule",LOH/DT,Epithelial
+SLC22A6,Proximal tubule,Proximal tubule,Epithelial
+SLC34A1,Proximal tubule,Proximal tubule,Epithelial
+SLC5A1,Proximal tubule,Proximal tubule,Epithelial
+SYNPO,Podocytes,Podocytes,Epithelial
+TOP2A,Cell cycle (G2 phase),Cell cycle,Cell cycle
+UMOD,"Loop of henle, Distal tubule",LOH/DT,Epithelial
+VIM,Un-induced mesenchyme,UM,Nephrogenic Stroma
+WT1,"Un-induced mesenchyme, Cap mesenchyme, Podocytes",UM/CM,Nephrogenic Stroma
