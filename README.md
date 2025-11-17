@@ -12,7 +12,7 @@ All scripts are fully reproducible and modular, focusing on:
 
 4. ComplexHeatmap plots summarizing sample and gene/splicing event relationships.
 
-## Requirments:
+## Requirements:
 Python 3.10+:
 Required packages:
 
@@ -33,14 +33,16 @@ readxl
 Matlab 2019+:
 ParTI method from Alon Lab: https://github.com/AlonLabWIS/ParTI
 
+## Repository Structure
 
-## Repository Structure: 
+```bash
 src/
 ├── figure_1/     # Archetype analysis
 ├── figure_2/     # CPM deconvolution
 ├── figure_3/     # rMATS splicing inclusion analysis
 └── data/         # Expression matrices and metadata
-
+pgsql
+Copy code
 
 
 For access gene expression datasets or any other questions, please email trinkya@biu.ac.il
