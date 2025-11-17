@@ -45,7 +45,7 @@ src/
 
 
 
-For access gene expression datasets or any other questions, please email trinkya@biu.ac.il
+For access to gene expression datasets, splicing results, or any other questions, please email trinkya@biu.ac.il
 
 
 
