@@ -41,8 +41,8 @@ src/
 ├── figure_2/     # CPM deconvolution
 ├── figure_3/     # rMATS splicing inclusion analysis
 └── data/         # Expression matrices and metadata
-pgsql
-Copy code
+```
+
 
 
 For access gene expression datasets or any other questions, please email trinkya@biu.ac.il
